@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **me@gefferson.com.br**
 
-- ⚡ Fun (or not) fact **I started in developer world with 12 yo, when i'd changed a DLL to leak password of the players that cheating inside the game. #sad**
+- ⚡ Fun (~~or not~~) fact **I started in developer world with 12 yo, when i'd changed a DLL to leak password of the players that cheating inside the game. #sad**
 
 <h3 align="left">Contact-me at:</h3>
   <div>
